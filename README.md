@@ -13,7 +13,8 @@ A lightweight and user-friendly QR Code Generator built using HTML, CSS, and Jav
 
 🛠️ Tech Stack
 HTML5
-
 CSS3
-
 JavaScript (Vanilla)
+
+🌐 Live Demo
+👉 https://qrgenerator-0-1.netlify.app/
